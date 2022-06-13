@@ -1,5 +1,5 @@
 # python-game
-[9:10 PM, 6/13/2022] Favourite❤: import random
+import random
 
 while True:
     user_action = input("Enter a choice (rock, paper, scissors): ")
